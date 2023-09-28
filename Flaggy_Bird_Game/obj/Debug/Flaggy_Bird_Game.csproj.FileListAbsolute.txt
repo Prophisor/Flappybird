@@ -1,0 +1,10 @@
+C:\Users\Siyamend\Desktop\C#-Programme\Flaggybird\Flaggy_Bird_Game\bin\Debug\Flaggy_Bird_Game.exe.config
+C:\Users\Siyamend\Desktop\C#-Programme\Flaggybird\Flaggy_Bird_Game\bin\Debug\Flaggy_Bird_Game.exe
+C:\Users\Siyamend\Desktop\C#-Programme\Flaggybird\Flaggy_Bird_Game\bin\Debug\Flaggy_Bird_Game.pdb
+C:\Users\Siyamend\Desktop\C#-Programme\Flaggybird\Flaggy_Bird_Game\obj\Debug\Flaggy_Bird_Game.csproj.AssemblyReference.cache
+C:\Users\Siyamend\Desktop\C#-Programme\Flaggybird\Flaggy_Bird_Game\obj\Debug\Flaggy_Bird_Game.Properties.Resources.resources
+C:\Users\Siyamend\Desktop\C#-Programme\Flaggybird\Flaggy_Bird_Game\obj\Debug\Flaggy_Bird_Game.csproj.GenerateResource.cache
+C:\Users\Siyamend\Desktop\C#-Programme\Flaggybird\Flaggy_Bird_Game\obj\Debug\Flaggy_Bird_Game.csproj.CoreCompileInputs.cache
+C:\Users\Siyamend\Desktop\C#-Programme\Flaggybird\Flaggy_Bird_Game\obj\Debug\Flaggy_Bird_Game.exe
+C:\Users\Siyamend\Desktop\C#-Programme\Flaggybird\Flaggy_Bird_Game\obj\Debug\Flaggy_Bird_Game.pdb
+C:\Users\Siyamend\Desktop\C#-Programme\Flaggybird\Flaggy_Bird_Game\obj\Debug\Flaggy_Bird_Game.Form1.resources
